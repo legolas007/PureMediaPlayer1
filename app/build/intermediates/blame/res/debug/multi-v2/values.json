@@ -1,0 +1,96 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "279,337",
+                        "endColumns": "57,55",
+                        "endOffsets": "332,388"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "112,58,166",
+                        "endColumns": "52,52,52",
+                        "endOffsets": "160,106,214"
+                    },
+                    "to": {
+                        "startLines": "11,12,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "470,523,576",
+                        "endColumns": "52,52,52",
+                        "endOffsets": "518,571,624"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "6,2,3,4,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "246,57,98,147,196",
+                        "endColumns": "38,39,47,47,48",
+                        "endOffsets": "280,92,141,190,240"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,94,134,182,230",
+                        "endColumns": "38,39,47,47,48",
+                        "endOffsets": "89,129,177,225,274"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "191,522,709",
+                        "endLines": "12,17,25",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "481,679,921"
+                    },
+                    "to": {
+                        "startLines": "14,21,24",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "629,920,1080",
+                        "endLines": "20,23,28",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "915,1075,1278"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,102",
+                        "endColumns": "43,44",
+                        "endOffsets": "96,142"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "393,431",
+                        "endColumns": "37,38",
+                        "endOffsets": "426,465"
+                    }
+                }
+            ]
+        }
+    ]
+}

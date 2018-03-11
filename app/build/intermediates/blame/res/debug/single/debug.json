@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_next_gray.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_next_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_player_bottom_control.9.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\bg_player_bottom_control.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_music_list_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_music_list_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_thumb.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\seekbar_thumb.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_player_status.9.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\bg_player_status.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_play_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_play_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_midea_list.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable\\selector_midea_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audio_anim_01.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\audio_anim_01.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pre_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_pre_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_video_list.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\layout\\adapter_video_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_default_icon.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\video_default_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_battery_60.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ic_battery_60.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audio_anim_04.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\audio_anim_04.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\color_selector_title_text.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\color\\selector_title_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_voice.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable\\selector_btn_voice.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_play.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable\\selector_btn_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audio_anim_09.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\audio_anim_09.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audio_anim_02.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\audio_anim_02.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_base_left_button_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\base_left_button_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_audio_next_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_audio_next_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_horizotal.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable\\progress_horizotal.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_playmode_singlerepeat_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_playmode_singlerepeat_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_player_bottom_seekbar.9.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\bg_player_bottom_seekbar.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_audio_play_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_audio_play_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_media_list.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\layout\\fragment_media_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_background.9.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\seekbar_background.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_playmode_singlerepeat_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_playmode_singlerepeat_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_audio_pause_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_audio_pause_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audio_anim_05.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\audio_anim_05.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_battery_10.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ic_battery_10.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_base_titlebar_bg.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\base_titlebar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audio_anim_08.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\audio_anim_08.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_battery_80.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ic_battery_80.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_playmode_random_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_playmode_random_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_notification.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\icon_notification.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_fullscreen.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable\\selector_btn_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_default_screen_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_default_screen_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_playmode_random_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_playmode_random_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pause_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_pause_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_base_bg.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\base_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_defaultscreen.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable\\selector_btn_defaultscreen.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_battery_20.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ic_battery_20.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_default_bg.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\music_default_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_play_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_play_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_full_screen_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_full_screen_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audio_anim_06.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\audio_anim_06.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audio_anim_07.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\audio_anim_07.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_audio_pre_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_audio_pre_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_notification_pre.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\icon_notification_pre.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_player_loading_background.9.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\bg_player_loading_background.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_next_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_next_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_pause.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable\\selector_btn_pause.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_playmode_all_repeat_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_playmode_all_repeat_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_voice_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_voice_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_battery_0.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ic_battery_0.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_full_screen_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_full_screen_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_voice_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_voice_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_music_list_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_music_list_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_audio_pause_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_audio_pause_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_audio_play_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_audio_play_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_progress.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\seekbar_progress.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_audio_pre_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_audio_pre_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_playmode_all_repeat_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_playmode_all_repeat_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pre_gray.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_pre_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_battery_100.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ic_battery_100.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_default_screen_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_default_screen_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_next.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable\\selector_btn_next.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pre_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_pre_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_player.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audio_seek_thumb.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\audio_seek_thumb.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_player_top_control.9.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\bg_player_top_control.9.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_base_left_button_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\base_left_button_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_audio_next_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_audio_next_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_exit.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_exit.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_battery_40.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ic_battery_40.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_exit_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_exit_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_next_normal.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_next_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audio_anim_03.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\audio_anim_03.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_exit.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable\\selector_btn_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_notification_next.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\icon_notification_next.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_pre.xml.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable\\selector_btn_pre.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\PureMediaPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pause_pressed.png.flat",
+        "source": "D:\\AndroidProject\\PureMediaPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_pause_pressed.png"
+    }
+]

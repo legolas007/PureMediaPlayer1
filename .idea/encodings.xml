@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/usher/mobile/player/activity/BaseActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/usher/mobile/player/activity/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/usher/mobile/player/activity/SplashActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/usher/mobile/player/activity/VideoPlayerActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/usher/mobile/player/bean/VideoItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/usher/mobile/player/fragment/BaseFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/usher/mobile/player/fragment/VideoFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/usher/mobile/player/interfaces/UiOperation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/usher/mobile/player/util/Utils.java" charset="GBK" />
+  </component>
+</project>
